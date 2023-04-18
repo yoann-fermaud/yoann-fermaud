@@ -4,10 +4,10 @@
 <p>Student in <em><b>Software Development</b></em> at <a href="https://laplateforme.io">LaPlateforme_</a> school <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 <a href="https://www.linkedin.com/in/yoann-fermaud/" align="left">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=10" width="100"/>
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=10" width="100" height="25"/>
 </a>
 <a href="https://github.com/yoann-fermaud">
-  <img src="https://img.shields.io/github/followers/yoann-fermaud?label=follow&style=social" width="105"/>
+  <img src="https://img.shields.io/github/followers/yoann-fermaud?label=follow&style=social" width="100" height="25"/>
 </a>
 
 
